@@ -12,3 +12,7 @@
 h1 {
   font-family: 'Permanent Marker', cursive;
 }
+
+* {
+  background-color: rgb(188, 251, 255);
+}
