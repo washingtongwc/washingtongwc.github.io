@@ -9,11 +9,12 @@
   font-size: xx-large;
 }
 
-h1 {
-  font-family: 'Permanent Marker', cursive;
-  background-color: rgb(188, 251, 255);
+#rcorners {
+    border-radius: 25px;
+    border: 2px solid rgb(0, 246, 255);
+    padding: 5px;
 }
 
-* {
-  background-color: #bcfbff;
+h1 {
+  font-family: 'Permanent Marker', cursive;
 }
