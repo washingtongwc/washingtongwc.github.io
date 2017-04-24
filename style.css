@@ -9,6 +9,10 @@
   font-size: xx-large;
 }
 
+.imagebacking {
+  background-image: URL("http://7-themes.com/data_images/out/79/7041615-light-blue-background.jpg");
+}
+
 #rcorners {
     border-radius: 25px;
     border: 2px solid rgb(0, 255, 229);
