@@ -10,7 +10,7 @@
 }
 
 .foreground {
-  background-color: rgb(66, 244, 244);
+  background-color: rgba(0, 153, 170, .5);
 }
 
 #rcorners {
