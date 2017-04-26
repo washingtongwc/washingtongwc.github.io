@@ -13,6 +13,10 @@
   background-color: rgba(0, 153, 170, .3);
 }
 
+.closelines {
+  line-height: 90%;
+}
+
 #rcorners {
     border-radius: 25px;
     border: 2px solid rgb(0, 255, 229);
