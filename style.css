@@ -25,6 +25,7 @@
 
 #blue {
   background-image: URL("https://s-media-cache-ak0.pinimg.com/originals/37/ee/1b/37ee1b0b8a80a8a7028e1586cee9ff5c.jpg");
+  background-repeat: no-repeat;
 }
 
 h1 {
