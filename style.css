@@ -23,6 +23,10 @@
   background-color: #99f3ff;
 }
 
+#blue {
+  background-image: URL("http://abhr-consulting.com/wp-content/uploads/2014/02/blur1.jpg");
+}
+
 h1 {
   font-family: 'Permanent Marker', cursive;
 }
