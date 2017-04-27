@@ -1,5 +1,5 @@
 .button {
-    background-color: rgb(255, 165, 0);
+    background-color: rgba(99, 54, 247, .6);
     border: none;
     color: black;
     padding: 32px 45px;
@@ -13,7 +13,7 @@
 
 .button2:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-    background-image: https://cdn.shutterstock.com/shutterstock/videos/3367607/thumb/1.jpg;
+    background-color: rgb(255, 165, 0);
 }
 
 .indie {
