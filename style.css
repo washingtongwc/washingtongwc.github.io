@@ -15,7 +15,7 @@
 }
 
 .button {
-    background-color: rgba(255, 237, 107, .9);
+    background-color: rgba(143, 116, 219, .7);
     border: none;
     color: rgb(1, 150, 155);
     padding: 15px 32px;
@@ -28,6 +28,7 @@
 
 .button2:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: rgba(255, 237, 107, .9);
 }
 
 #rcorners {
