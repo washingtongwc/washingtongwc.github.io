@@ -1,5 +1,4 @@
 .button {
-    font-family: 'Indie Flower', cursive;
     background-color: rgb(244, 155, 66);
     border: none;
     color: black;
@@ -15,4 +14,12 @@
 .button2:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     background-color: rgb(255,165,0);
+}
+
+.indie {
+    font-family: 'Indie Flower', cursive;
+}
+
+.rationale {
+    font-family: 'Rationale', sans-serif;
 }
