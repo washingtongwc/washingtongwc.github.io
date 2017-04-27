@@ -15,11 +15,11 @@
 }
 
 .button {
-    background-color: rgba(128, 67, 242, .6);
+    background-color: rgba(0, 239, 252, .6);
     border: none;
     color: white;
     padding: 15px 32px;
-    margin: 0 auto;
+    margin: 0px auto;
     text-align: center;
     text-decoration: none;
     display: inline-block;
