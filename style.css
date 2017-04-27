@@ -44,6 +44,10 @@
   background-repeat: no-repeat;
 }
 
+#buttontext {
+  font-family: 'Play', sans-serif;
+}
+
 h1 {
   font-family: 'Permanent Marker', cursive;
 }
