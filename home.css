@@ -16,7 +16,7 @@
     background-color: rgb(255, 165, 0);
 }
 
-.button {
+.buttonA {
     background-color: rgba(244, 66, 131, .6);
     border: none;
     color: black;
@@ -29,7 +29,7 @@
     font-size: 16px;
 }
 
-.button2:hover {
+.buttonA2:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     background-color: rgb(226, 0, 0);
 }
