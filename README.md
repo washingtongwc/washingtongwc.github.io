@@ -1,3 +1,5 @@
+# Official George Washington High School Girls Who Code Club project about women's health and safety
+
 Website Link at: washingtongwc.github.io
 
 Homepage File: index.html
